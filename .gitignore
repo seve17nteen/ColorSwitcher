@@ -1,0 +1,34 @@
+# Qt Creator
+*.user
+*.user.*
+*.pro.user
+*.pro.user.*
+
+# Сборка
+build/
+build-*/
+debug/
+release/
+Makefile
+Makefile.*
+
+# Объектные файлы и библиотеки
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.a
+*.lib
+*.exe
+
+# Сгенерированные файлы
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+
+# Системный мусор
+.DS_Store
+Thumbs.db
+desktop.ini
